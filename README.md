@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MGPT82
 - 👀 I’m interested in coding
-- 🌱 I’m a total Beginner in coding 
+- 🌱 I’m a total Beginner in coding
+- 🦮 I own a Petoi Bittle robot 
 - 💞️ I am looking for support tips and hints to help me get started 
 - 📫 Reach me via markus.gross@posteo.de 
 
